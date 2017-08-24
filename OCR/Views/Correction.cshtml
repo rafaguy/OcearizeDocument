@@ -1,0 +1,100 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = null;
+}
+
+@* the fun starts here *@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Indexation Facture</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://www.gstatic.com/firebasejs/3.9.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCFbuXxV0wG85qMAhOlEgSQJqQudQVU3uk",
+    authDomain: "indexation-1b8f8.firebaseapp.com",
+    databaseURL: "https://indexation-1b8f8.firebaseio.com",
+    projectId: "indexation-1b8f8",
+    storageBucket: "indexation-1b8f8.appspot.com",
+    messagingSenderId: "411582772220"
+  };
+  firebase.initializeApp(config);
+</script>
+
+</head>
+
+<body>
+<ul class="nav nav-pills"><li class="active"><a href="#">Home</a></li>
+<li><a href="#" data-toggle="modal" data-target="#login">OCR </a></li>
+<li><a href="#"> </a></li></ul>
+<div class="container"><div class="form-group">
+<label for="lotInput">Choisir un lot</label>
+<input type="file" id="files" webkitdirectory directory multiple/></div>
+<output id="list"></output>
+<h1>Document</h1>
+<div class="row"><div class="col-sm-3 col-md-6 col-lg-8">
+<img class="img-thumbnail" src="" title="" id="imgId">
+<p>Sed ut</p>
+</div><div class="col-sm-9 col-md-6 col-lg-4">
+<label for="ocr">OCR</label><textarea style="height:500px""  class="form-control" id="ocr" name="ocr" rows="3"></textarea>
+<br><button class="btn btn-primary" type="button" id="btnSave">Save</button>
+</div></div></div>
+
+<!-- Modal-->
+<div class="modal fade" id="login" tabindex="-1" role="dialog"
+
+aria-labelledby="myTitle" aria-hidden="true">
+<div class="modal-dialog">
+	<div class="modal-content">
+		<div class="modal-header">
+			<button type="button" class="close"
+			data-dismiss="modal" aria-hidden="true">
+			&times;
+			</button>
+		<h4 class="modal-title" id="myTitle">
+		Login
+		</h4>
+		</div>
+	<div class="modal-body">
+	    
+	    <form role="form" class="form-horizontal">
+			<div class="form-group">
+				<label for="username" class="col-sm-2 control-label" >UserName</label>
+				<div class="col-sm-10">
+					<input type="text" class="form-control" id="username" placeholder="Enter your User name">
+				</div>
+				
+			</div>
+			<div class="form-group">
+				<label for="password" class="col-sm-2 label-control">PassWord</label>
+
+				<div class="col-sm-10">
+					<input type="password" class="form-control" id="password" placeholder="Enter your password">
+				</div>
+			</div>
+		</form>
+	    
+	</div>
+	<div class="modal-footer">
+	<button type="button" class="btn btn-default"
+	data-dismiss="modal">Close
+	</button>
+	<button type="button" class="btn btn-primary">
+	Login
+	</button>
+	</div>
+	</div>
+</div>
+
+</div>
+<script src="https://code.jquery.com/jquery.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="/scripts/script.js"></script>
+
+</body>
+</html>

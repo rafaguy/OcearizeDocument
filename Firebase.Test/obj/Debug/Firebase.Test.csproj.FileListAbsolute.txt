@@ -1,0 +1,16 @@
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\Firebase.Test.dll
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\Firebase.Test.pdb
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\FireBase.dll
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\System.Reactive.Linq.dll
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\System.Reactive.Core.dll
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\FireBase.pdb
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\System.Reactive.Linq.xml
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\System.Reactive.Core.xml
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\obj\Debug\Firebase.Test.csprojResolveAssemblyReference.cache
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\obj\Debug\Firebase.Test.dll
+C:\Users\franampy\Documents\Visual Studio 2015\Projects\OCR\Firebase.Test\obj\Debug\Firebase.Test.pdb

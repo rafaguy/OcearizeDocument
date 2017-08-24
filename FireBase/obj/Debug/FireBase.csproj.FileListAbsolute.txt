@@ -1,0 +1,17 @@
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\obj\Debug\FireBase.csprojResolveAssemblyReference.cache
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\FireBase.dll
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\FireBase.pdb
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\System.Reactive.Core.dll
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\System.Reactive.Linq.dll
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\System.Reactive.Core.xml
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\System.Reactive.Linq.xml
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\obj\Debug\FireBase.dll
+C:\Users\franampy\documents\visual studio 2015\Projects\OCR\FireBase\obj\Debug\FireBase.pdb

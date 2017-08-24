@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCR", "OCR\OCR.csproj", "{57477A11-D966-438F-9B6F-E400E56FDCAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesseract", "Tesseract\Tesseract.csproj", "{752831BD-8538-49EF-8027-5FF621AA6EF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireBase", "FireBase\FireBase.csproj", "{D15F94E4-7036-4C51-BA7F-2159CC9BBAEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebase.Test", "Firebase.Test\Firebase.Test.csproj", "{0F5A7D98-0A71-4DC6-B267-2F661D6B8666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57477A11-D966-438F-9B6F-E400E56FDCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57477A11-D966-438F-9B6F-E400E56FDCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57477A11-D966-438F-9B6F-E400E56FDCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57477A11-D966-438F-9B6F-E400E56FDCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752831BD-8538-49EF-8027-5FF621AA6EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752831BD-8538-49EF-8027-5FF621AA6EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752831BD-8538-49EF-8027-5FF621AA6EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752831BD-8538-49EF-8027-5FF621AA6EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15F94E4-7036-4C51-BA7F-2159CC9BBAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15F94E4-7036-4C51-BA7F-2159CC9BBAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15F94E4-7036-4C51-BA7F-2159CC9BBAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15F94E4-7036-4C51-BA7F-2159CC9BBAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F5A7D98-0A71-4DC6-B267-2F661D6B8666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5A7D98-0A71-4DC6-B267-2F661D6B8666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5A7D98-0A71-4DC6-B267-2F661D6B8666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5A7D98-0A71-4DC6-B267-2F661D6B8666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
